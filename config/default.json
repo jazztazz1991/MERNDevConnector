@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://lanugginoso:motiv8er@devconnector.ros4z.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://lanugginoso:motiv8er@devconnector.ros4z.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
