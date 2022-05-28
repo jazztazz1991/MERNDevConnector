@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 // Data needed to be filled out for each user
 const UserSchema = new mongoose.Schema({
-    name: {
+    username: {
         type: String,
         required: true
     },
